@@ -1,0 +1,8 @@
+1. what is bigdata? explain its characteristics of bigdata? and also explain evolution of bigdata?
+2. what is data explain the data classification?
+3. explain the bigdata classification?
+4. what is scalability? explain horizontal and vertical scalability?
+5. what is cloud computing? explain cloud computing services?
+6. explain data cleaning data reduction?
+7. explain distributed computing model?
+  
